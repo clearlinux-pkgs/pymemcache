@@ -4,7 +4,7 @@
 #
 Name     : pymemcache
 Version  : 1.3.5
-Release  : 20
+Release  : 21
 URL      : https://pypi.python.org/packages/source/p/pymemcache/pymemcache-1.3.5.tar.gz
 Source0  : https://pypi.python.org/packages/source/p/pymemcache/pymemcache-1.3.5.tar.gz
 Summary  : A comprehensive, fast, pure Python memcached client
