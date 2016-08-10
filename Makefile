@@ -1,5 +1,5 @@
 PKG_NAME := pymemcache
-URL := https://pypi.python.org/packages/source/p/pymemcache/pymemcache-1.3.5.tar.gz
+URL := http://pypi.debian.net/pymemcache/pymemcache-1.3.6.tar.gz
 ARCHIVES :=
 
 include ../common/Makefile.common
