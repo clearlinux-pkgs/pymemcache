@@ -4,7 +4,7 @@
 #
 Name     : pymemcache
 Version  : 1.4.3
-Release  : 31
+Release  : 32
 URL      : http://pypi.debian.net/pymemcache/pymemcache-1.4.3.tar.gz
 Source0  : http://pypi.debian.net/pymemcache/pymemcache-1.4.3.tar.gz
 Summary  : A comprehensive, fast, pure Python memcached client
