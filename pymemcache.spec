@@ -4,7 +4,7 @@
 #
 Name     : pymemcache
 Version  : 2.1.1
-Release  : 41
+Release  : 42
 URL      : https://files.pythonhosted.org/packages/84/06/0ba87e4bbbae5c1838120e74cc5df0d901e1b343d7958f2149207b569afd/pymemcache-2.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/84/06/0ba87e4bbbae5c1838120e74cc5df0d901e1b343d7958f2149207b569afd/pymemcache-2.1.1.tar.gz
 Summary  : A comprehensive, fast, pure Python memcached client
