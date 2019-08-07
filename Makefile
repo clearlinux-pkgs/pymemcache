@@ -1,5 +1,5 @@
 PKG_NAME := pymemcache
-URL = https://files.pythonhosted.org/packages/0b/4e/b6e7a7a801f3f3faa2f7a16decd969897b9a3490ab6457944ca3e1f85de6/pymemcache-2.2.0.tar.gz
+URL = https://files.pythonhosted.org/packages/82/1b/9c07b12a8edcdf8a46d7bde0c872c62664ecc939359013c02869a4854e58/pymemcache-2.2.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
